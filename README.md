@@ -41,3 +41,15 @@ Project Introduction
 1. 页面所见即所得，用户使用基本没有学习成本
 2. 发布的是纯静态页，服务器成本很低，扩展方便
 3. 不受后端限制
+
+课程规划
+--------
+
+考虑到做一整套大课在售卖上会有很多局限，所以计划拆分成若干套中小型课程来制作和销售。结合实战项目的技术选型和开发难点，准备进行如下分解：
+
+1. [响应式网页制作](./making-responsive-page.md)
+2. [使用 Vue 全家桶开发所见即所得的内容发布系统](./vue-wysiwyg-cms.md)
+3. [使用 Nuxt.js 发布纯静态网站](./nuxt-generate-static-site.md)
+4. [使用 Serverless 进行无后端应用开发](./building-serverless-app.md)
+
+
