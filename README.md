@@ -51,5 +51,5 @@ Project Introduction
 2. [使用 Vue 全家桶开发所见即所得的内容发布系统](./vue-wysiwyg-cms.md)
 3. [使用 Nuxt.js 发布纯静态网站](./nuxt-generate-static-site.md)
 4. [使用 Serverless 进行无后端应用开发](./building-serverless-app.md)
-
+5. [网站加载速度优化](./lighthouse.md)
 
