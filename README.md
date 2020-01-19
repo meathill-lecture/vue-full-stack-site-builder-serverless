@@ -52,4 +52,4 @@ Project Introduction
 3. [使用 Nuxt.js 发布纯静态网站](./nuxt-generate-static-site.md)
 4. [使用 Serverless 进行无后端应用开发](./building-serverless-app.md)
 5. [网站加载速度优化](./lighthouse.md)
-
+6. [升级到 Vue 3.0](./upgrade-to-vue-3.md)
